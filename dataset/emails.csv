@@ -1,0 +1,21 @@
+text,label
+"Congratulations! You won a free iPhone. Click this link to claim your prize now.",phishing
+"Your bank account has been suspended. Verify your account immediately using the link below.",phishing
+"Urgent security alert! Confirm your password at http://secure-login-example.com.",phishing
+"You have received a reward. Click here to claim your cash prize.",phishing
+"Your email account will be closed today. Verify your account immediately.",phishing
+"Important: Your payment failed. Update your card details using the attached link.",phishing
+"Click this link to win a free vacation. Offer expires today.",phishing
+"Your account has unusual activity. Login now to secure your account.",phishing
+"Congratulations! You are selected for a special cash reward. Claim now.",phishing
+"Your package is waiting. Pay the delivery fee using this link.",phishing
+"Team meeting is scheduled for tomorrow at 10 AM in the conference room.",safe
+"Please find the project report attached for your review.",safe
+"Your electricity bill for this month is attached.",safe
+"Reminder: Your college assignment is due on Friday.",safe
+"Thank you for attending today's meeting.",safe
+"The monthly newsletter is now available.",safe
+"Your order has been shipped and will arrive tomorrow.",safe
+"Please review the attached internship documents.",safe
+"Your appointment is confirmed for Monday at 3 PM.",safe
+"Here are the notes from our discussion yesterday.",safe
